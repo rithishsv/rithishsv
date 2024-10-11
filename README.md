@@ -61,7 +61,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=500&color=9B7EEC&center=true&vCenter=true&width=350&lines=Let's+Connect" alt="Typing SVG" />
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/anaswerajay/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://i.imgur.com/bdZIuia.png"/></a>
+  <a href="https://www.linkedin.com/in/rithish-s-v/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://i.imgur.com/bdZIuia.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
